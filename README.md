@@ -6,7 +6,9 @@ By this program, you can be notified of your appointments on LINE so that you do
 function
 
 1, Notification me today's appointments at 7:00 on LINE
+
 2, Notification me tomorrow'S appointments at 21:00 on LINE
+
 3, Notification me the day your garbage will be collected
 
 
