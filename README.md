@@ -12,9 +12,11 @@ function
 3, Notification me the day your garbage will be collected
 
 
+
 If you want to use this program, you need to fix the following.
 
 LINEToken
+
 
 Thank you for reading.
 
